@@ -1,0 +1,2 @@
+cd  - change directory-> used for changing the folder
+mkdir - to create folder 
